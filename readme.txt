@@ -1,2 +1,2 @@
-hello git
+hello and hi git
 I am learning git
